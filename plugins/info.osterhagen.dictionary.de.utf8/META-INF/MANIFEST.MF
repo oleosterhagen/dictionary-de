@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: German Dictionary UTF-8
+Bundle-SymbolicName: info.osterhagen.dictionary.de.utf8
+Bundle-Version: 1.0.0.202012232125
+Bundle-Vendor: Ole Osterhagen
+Fragment-Host: org.eclipse.jdt.ui;bundle-version="3.15.0"
+Automatic-Module-Name: info.osterhagen.dictionary.de.utf8
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
